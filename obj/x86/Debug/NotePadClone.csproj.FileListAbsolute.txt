@@ -1,0 +1,6 @@
+C:\Users\lars.white\AppData\Local\Temporary Projects\NotePadClone\bin\Debug\NotePadClone.exe
+C:\Users\lars.white\AppData\Local\Temporary Projects\NotePadClone\bin\Debug\NotePadClone.pdb
+C:\Users\lars.white\AppData\Local\Temporary Projects\NotePadClone\obj\x86\Debug\NotePadClone.Properties.Resources.resources
+C:\Users\lars.white\AppData\Local\Temporary Projects\NotePadClone\obj\x86\Debug\NotePadClone.csproj.GenerateResource.Cache
+C:\Users\lars.white\AppData\Local\Temporary Projects\NotePadClone\obj\x86\Debug\NotePadClone.exe
+C:\Users\lars.white\AppData\Local\Temporary Projects\NotePadClone\obj\x86\Debug\NotePadClone.pdb
